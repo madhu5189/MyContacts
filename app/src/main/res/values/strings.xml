@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="str_add_new_contact">Add new contact</string>
+    <string name="str_contact_number">contact number</string>
+    <string name="str_contact_name">contact name</string>
+
+    <string name="read_contact_access_required">Read Contacts permission is required to show the contacts</string>
+    <string name="ok">OK</string>
+    <string name="read_contact_permission_not_available">Permission is not available. Requesting read contact permission.</string>
+    <string name="read_contact_permission_available">Read contact permission is available. Starting preview.</string>
+    <string name="read_contact_permission_granted">Read contact permission was granted. Starting preview.</string>
+    <string name="read_contact_permission_denied">Read contact permission request was denied.</string>
+</resources>
